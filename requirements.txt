@@ -1,2 +1,4 @@
 scrapy
 discord.py
+beautifulsoup4
+requests

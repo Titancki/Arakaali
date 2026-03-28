@@ -1,0 +1,4 @@
+.DS_Store
+Thumbs.db
+doe/app/__pycache__
+crawler/app/__pycache__
